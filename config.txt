@@ -1,0 +1,6 @@
+﻿token=NTk2NDczNDM5NTk0ODcyODMy.XR6DNA.kPbRZ0zxaX4-xHIhP5ii-r-DFLc
+owner=557181389100023839
+prefix=1
+game=1play|Avatar
+stayinchannel=true
+songinstatus=false
